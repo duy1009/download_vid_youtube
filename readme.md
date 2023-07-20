@@ -25,3 +25,5 @@ def get_transform_object(js: str, var: str) -> List[str]:
 ```
 
 Sau đó lưu file và chạy lại chương trình
+
+Link debug: https://stackoverflow.com/questions/76704097/pytube-exceptions-regexmatcherror-get-transform-object-could-not-find-match-fo?fbclid=IwAR00r18hwgwoyBs6vlGnt6a4Q_ndRY3pZGXveb_Oar2OFdQB8qFcGtlOx94
