@@ -2,12 +2,12 @@
 `pip install pytube==15.0.0`
 
 
-
-
 ### Chạy chương trình
 `python download_yt.py`
 
 * Khi chạy chương trình bị lỗi: pytube.exceptions.RegexMatchError: get_transform_object: could not find match for var for={(.*?)};
+
+
 Bước 1: mở file cipher.py của thư viện pytube (file bị lỗi).
 (Ví dụ đường dẫn: .venv/lib/python3.10/site-packages/pytube/cipher.py)
 
