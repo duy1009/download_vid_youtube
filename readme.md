@@ -2,7 +2,7 @@
 `pip install -r requirements.txt`
 
 
-### Chạy chương trình
+### Lưu ý lần đầu chạy download_yt.py
 `python download_yt.py`
 
 * Khi chạy chương trình bị lỗi: pytube.exceptions.RegexMatchError: get_transform_object: could not find match for var for={(.*?)};
