@@ -1,5 +1,5 @@
 ### Cài đặt thư viện
-`pip install pytube==15.0.0`
+`pip install -r requirements.txt`
 
 
 ### Chạy chương trình
